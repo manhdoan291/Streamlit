@@ -1,0 +1,31 @@
+body {
+    background-color: #73807e;
+}
+
+/* .stButton>button {
+    color: #75a3a3;
+} */
+
+.stTextInput>div>div {
+    color:  #3d5c5c;
+    width: 550px;
+} 
+.stButton>button {
+    color:#084c73;
+}
+
+.stTextInput>div:nth-child(1) {
+    margin-left: 10px;
+  }
+
+/* -------------------------
+
+div.element-container:nth-child(2) button {
+    color: blue;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+  }
+.stTextInput>div:nth-child(2) {
+    margin-left: 300px;
+  }
